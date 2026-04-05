@@ -1,0 +1,11 @@
+{
+  "assetType": "skill",
+  "name": "computer-use",
+  "displayName": "电脑操控技能",
+  "description": "让AI像人一样操控电脑：看屏幕、点鼠标、打字、操作软件。适用于：操作桌面软件（没有API的系统）、自动填写表单、点击按钮、多窗口操作、截屏查看界面。",
+  "semver": "1.0.1",
+  "author": "xiaomi-pc",
+  "tags": ["automation", "computer-use", "windows", "desktop"],
+  "dependencies": "pip install pyautogui mss pillow pygetwindow pyperclip",
+  "homepage": "https://github.com/xiaomi-openclaw/computer-use"
+}
